@@ -5,4 +5,5 @@ degrees.  Latitude was compared to temperature, humidity, windspeed, and cloudin
 
 The dashboard contains individual pages for each plot and also ways to navigate between each page. These pages will contain the visualizations and their corresponding explanations. There is a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-https://github.com/dtigrett/Web-Design.github.io
+
+https://dtigrett.github.io/Web-Design/
